@@ -25,8 +25,8 @@
 
 [<img align="left" alt="infowebvlad.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zireael112)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://infowebvlad.ru
 [vk]: https://vk.com/id229997013
