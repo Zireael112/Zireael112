@@ -4,7 +4,7 @@
 - 💪 I like to write code
 - 🎉 I love to play sport and play any games
 - 🥅 I am constantly learning new things
-- ⚡ I love to add new projects to my portfolio here http://infowebvlad.ru
+- ⚡ I love to add new projects to my portfolio here https://zireael112.github.io/infowebvlad/
 
 <br />
 
@@ -18,16 +18,13 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencart/opencart-original.svg" />
-
 <br />
 <br />
 
 ### Connect with me:
 
 [<img align="left" alt="infowebvlad.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Vlad | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
-[website]: https://zireael112.github.io/infowebvlad
+[website]: https://zireael112.github.io/infowebvlad/
 [vk]: https://vk.com/id229997013
