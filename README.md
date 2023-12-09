@@ -4,7 +4,7 @@
 - 💪 I like to write code
 - 🎉 I love to play sport and play any games
 - 🥅 I am constantly learning new things
-- ⚡ I love to add new projects to my portfolio here https://zireael112.github.io/infowebvlad/
+- ⚡ I love to add new projects to my portfolio here https://webvd.ru
 
 <br />
 
