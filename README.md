@@ -26,5 +26,5 @@
 [<img align="left" alt="webvd.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Vlad | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
-[website]: https://webvd.ru
+[website]: https://zireael112.github.io/WebVd/
 [vk]: https://vk.com/id229997013
